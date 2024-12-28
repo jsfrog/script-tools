@@ -1,0 +1,14 @@
+{
+    "name": "script-tools",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "run-bilibili-wiki-author": "node ./bilibili/wiki-audio/index.js"
+    },
+    "author": "jsfrog",
+    "license": "ISC",
+    "description": "",
+    "workspaces": [
+        "bilibili-wiki-author"
+    ]
+}
